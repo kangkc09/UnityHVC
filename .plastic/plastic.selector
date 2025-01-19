@@ -1,0 +1,4 @@
+repository "VirtualCharacterV1/VirtualCharacterV1@14569599847227@cloud"
+  path "/"
+    br "/main"
+    co "/main"
